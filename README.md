@@ -2,7 +2,7 @@
 
 Machine Learning | Software Architecture Fullcycle | DevOps
 
-After so many years working in the field, it would be impractical to list everything I've worked on, from telecommunications, network administration, to project management. The fact is that I never felt attached to any programming language, operating system or any tools, but these are some of the ones I have the most experience with recently
+After so many years working in the field, it would be impractical to list everything I've worked on, from telecommunications, network administration, to software developer, software architect and project management. The fact is that I never felt attached to any programming language, operating system or any tools, but these are some of the ones I have the most experience with recently
 
 Area | Desc
 ------------- | -------------
