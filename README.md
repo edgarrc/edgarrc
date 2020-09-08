@@ -12,8 +12,6 @@ The fact is that I never felt restricted to any programming language, operating 
 - **Databases**: Oracle, SqlServer, Redis, RavenDB, MongoDB and others (I love optimizing SQL queries)
 - **Security**: Solid knowledge and experience on software security (network, encryption algorithms and pentest)
 
-<br />
-
 ---
 
 - :man_factory_worker: I'm not looking for a formal job but I'm willing to help with open source projects
