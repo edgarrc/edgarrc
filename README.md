@@ -16,5 +16,9 @@ The fact is that I never felt restricted to any programming language, operating 
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=EDGARRC)
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EDGARRC&show_icons=true&hide_border=true" />
+
+</details>
