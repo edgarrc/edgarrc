@@ -1,6 +1,10 @@
 ### Hi there! Welcome to my Github profile! <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+
 💬 [Ask me about anything](https://forms.gle/Cqbwq4fGKtPbHwJG6)
+
+<br />
 
 After so many years working in the field, it would be impractical to list everything I've worked on, from telecommunications, network administration, to software developer, software architect and project management. 
 
@@ -12,11 +16,6 @@ The fact is that I never felt restricted to any programming language, operating 
 - **Databases**: Oracle, SqlServer, Redis, RavenDB, MongoDB and others (I love optimizing SQL queries)
 - **Security**: Solid knowledge and experience on software security (network, encryption algorithms and pentest)
 
-<br />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
 <br />
 
 ---
