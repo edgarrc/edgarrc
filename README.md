@@ -2,10 +2,6 @@
 
 <br />
 
-💬 [Ask me about anything](https://forms.gle/Cqbwq4fGKtPbHwJG6)
-
-<br />
-
 After so many years working in the field, it would be impractical to list everything I've worked on, from telecommunications, network administration, to software developer, software architect and project management. 
 
 The fact is that I never felt restricted to any programming language, operating system or any tools, but these are some of the ones I have the most experience with, working recently.
@@ -17,6 +13,9 @@ The fact is that I never felt restricted to any programming language, operating 
 - **Security**: Solid knowledge and experience on software security (network, encryption algorithms and pentest)
 
 <br />
+
+- :man_factory_worker: I'm not looking for a formal job but I'm willing to help with open source projects
+- :speech_balloon: [Ask me about anything](https://forms.gle/Cqbwq4fGKtPbHwJG6)
 
 ---
 
