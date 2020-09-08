@@ -24,3 +24,12 @@ The fact is that I never felt restricted to any programming language, operating 
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EDGARRC&show_icons=true&hide_border=true&count_private=true&theme=dracula&include_all_commits=true" />
 </details>
+
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
