@@ -11,8 +11,10 @@ The fact is that I never felt restricted to any programming language, operating 
 - **Security**: Solid knowledge and experience on software security (network, encryption algorithms and pentest)
 
 ---
+
 💬 [Ask me about anything](https://forms.gle/Cqbwq4fGKtPbHwJG6)
 
 ---
+
 ![](https://github-readme-stats.vercel.app/api?username=EDGARRC)
 
