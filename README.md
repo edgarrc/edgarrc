@@ -30,6 +30,8 @@ The fact is that I never felt restricted to any programming language, operating 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//edgarrc/fullcycle4-desafio5/pull/1) in [edgarrc/fullcycle4-desafio5](https://github.com//edgarrc/fullcycle4-desafio5)
+2. 💪 Opened PR [#1](https://github.com//edgarrc/fullcycle4-desafio5/pull/1) in [edgarrc/fullcycle4-desafio5](https://github.com//edgarrc/fullcycle4-desafio5)
 <!--END_SECTION:activity-->
 
 </details>
