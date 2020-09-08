@@ -14,6 +14,10 @@ The fact is that I never felt restricted to any programming language, operating 
 
 ---
 
+The pinned repositories of github is a mess... As I like to standardize everything, my public repositories that are worth seeing are in [Public Projects](https://github.com/edgarrc?tab=projects)
+
+---
+
 - :man_factory_worker: I'm not looking for a formal job but I'm willing to help with open source projects
 - :speech_balloon: [Ask me about anything](https://forms.gle/Cqbwq4fGKtPbHwJG6)
 
