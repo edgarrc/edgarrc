@@ -8,7 +8,7 @@ The fact is that I never felt restricted to any programming language, operating 
 
 - **IA (NN/ML)**: Tensorflow 2, PyTorch, FastIA, Scikit-learn, ETL and BI tools like PowerBI, Tableau and Qlik
 - **FullCycle Software Architecture**: .NetFramework/.NetCore, Python, NodeJS, C/C++, using many different tools (I really like low level programming on SO's internals/kernels)
-- **DevOps**: Github/Bitbucket pipelines, AWS, Azure, GCP, Docker/Kubernets, (I also have a lot of experience with On Premise hosting)
+- **DevOps**: CI/CD pipelines, AWS, Azure, GCP, Docker/Kubernets, (I also have a lot of experience with On Premise hosting)
 - **Databases**: Oracle, SqlServer, Redis, RavenDB, MongoDB and others (I love optimizing SQL queries)
 - **Security**: Solid knowledge and experience on software security (network, encryption algorithms and pentest)
 
