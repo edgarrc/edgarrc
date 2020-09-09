@@ -14,7 +14,7 @@ The fact is that I never felt restricted to any programming language, operating 
 
 ---
 
-The pinned repositories of github is a mess... As I like to standardize everything, my public repositories that are worth seeing are in [Public Projects](https://github.com/edgarrc?tab=projects)
+The pinned repositories and the repository list of Github is a mess... As I like to organize/standardize everything, my public repositories that are worth seeing are in [Public Projects](https://github.com/edgarrc?tab=projects)
 
 ---
 
