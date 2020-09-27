@@ -33,8 +33,8 @@ The pinned repositories and the repository list of Github is a mess... As I like
   <summary>:zap: Recent Github Public Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//edgarrc/fullcycle4-desafio5/pull/1) in [edgarrc/fullcycle4-desafio5](https://github.com//edgarrc/fullcycle4-desafio5)
-2. 💪 Opened PR [#1](https://github.com//edgarrc/fullcycle4-desafio5/pull/1) in [edgarrc/fullcycle4-desafio5](https://github.com//edgarrc/fullcycle4-desafio5)
+1. 🎉 Merged PR [#1](https://github.com/edgarrc/fullcycle4-desafio5/pull/1) in [edgarrc/fullcycle4-desafio5](https://github.com/edgarrc/fullcycle4-desafio5)
+2. 💪 Opened PR [#1](https://github.com/edgarrc/fullcycle4-desafio5/pull/1) in [edgarrc/fullcycle4-desafio5](https://github.com/edgarrc/fullcycle4-desafio5)
 <!--END_SECTION:activity-->
 
 </details>
